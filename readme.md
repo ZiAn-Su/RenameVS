@@ -1,6 +1,6 @@
 ### 介绍
 程序的功能是重命名windows系统下，visual studio中的c++的项目(The function of the program is to rename the c++ project in visual studio under windows system)；
-参考https://github.com/MethodJiao/VsProjectRename的程序，修复了若干自己在使用中遇到的问题，如修改.db文件报错、使用时间过长等；
+参考https://github.com/MethodJiao/VsProjectRename 的程序，修复了若干自己在使用中遇到的问题，如修改.db文件报错、使用时间过长等；
 ### 用法
 #### 1 
 下载exe文件，直接运行；依次输入解决方案路径、原项目名、新项目名，如输入 E:\Project\TestBoostLog、TestBoostLog、newname
